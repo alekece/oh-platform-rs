@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS application;
+DROP TABLE IF EXISTS vacancy;
+DROP TABLE IF EXISTS company;
+DROP TABLE IF EXISTS jobboard;
